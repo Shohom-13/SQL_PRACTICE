@@ -5,3 +5,4 @@ https://github.com/Shohom-13/SQL_PRACTICE/blob/2d353ecec282c7ab5f294566ce1527261
 https://github.com/Shohom-13/SQL_PRACTICE/blob/569d5e3f919f3e616844ae90eeb2611aec45c16c/Screenshot%202025-08-08%20111747.png
 https://github.com/Shohom-13/SQL_PRACTICE/blob/0b1209b652a22e78c31a99826631e5746e7a9f8b/Screenshot%202025-08-08%20111855.png
 https://github.com/Shohom-13/SQL_PRACTICE/blob/89cd0c5f44be6711791bef2a49e58fe9af7fad03/Screenshot%202025-08-08%20112114.png
+https://github.com/Shohom-13/SQL_PRACTICE/blob/49f7b357ef7e51ebb7a4a456f02dd588fd678e91/Screenshot%202025-08-08%20112427.png
