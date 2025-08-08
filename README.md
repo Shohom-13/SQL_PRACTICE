@@ -9,6 +9,7 @@ SELECT WHERE
 ![image alt](https://github.com/Shohom-13/SQL_PRACTICE/blob/2d353ecec282c7ab5f294566ce152726163a4aaf/Screenshot%202025-08-08%20111600.png)
 
 
+
 JOINS
 ![image alt](https://github.com/Shohom-13/SQL_PRACTICE/blob/569d5e3f919f3e616844ae90eeb2611aec45c16c/Screenshot%202025-08-08%20111747.png)
 
